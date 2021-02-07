@@ -1,0 +1,2 @@
+rootProject.name='GaziTIP'
+include ':app'
